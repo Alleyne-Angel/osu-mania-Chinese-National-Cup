@@ -1,7 +1,7 @@
 [notice][centre][size=150][b]osu!mania 7K Chinese National Cup 2026[/b][/size][/centre]
 [centre][size=150][b]osu!mania 7K 中国国家杯 2026[/b][/size][/centre][/notice]
-[centre][img][/img][/centre]
-[centre][size=150][url=https://discord.gg/uBHK5vq]Discord[/url]||[/size][size=150][url=https://forms.gle/N9rDHS5y7JtZ5waF6]Player 报名表[/url]||[url=https://forms.gle/oAj7WbaAq6PGU3HZ8]Staff 报名表[/url]||[/size][size=150][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vTxbtwFzPfljIdFMOXVCPyXg2qhcuutsNhriuDdFGzxxRqrEEQKAK-V9XSXka41W3YkkEcq29oomjlc/pubhtml]总表[/url]||[/size][size=150][url=https://mcnc.crzteam.cn/home]赛事官网[/url][/size][/centre]
+[centre][img]https://cdn.discordapp.com/attachments/1430863331937489001/1448283442667061379/banner.png?ex=693ab290&is=69396110&hm=0cbf406e479066b5334e3eec5ff886ed6b33b2529a2e4cced536b5e2e98ed4d4&[/img][/centre]
+[centre][size=150][url=https://discord.gg/uBHK5vq]Discord[/url]||[/size][size=150][url=https://forms.gle/SYiLs54kJh7gqKmy9]Player 报名表[/url]||[url=https://forms.gle/oAj7WbaAq6PGU3HZ8]Staff 报名表[/url]||[/size][size=150][url=https://space.bilibili.com/3690971596327000]总表[/url]||[/size][size=150][url=https://mcnc.crzteam.cn/home]赛事官网[/url]||[url=https://space.bilibili.com/3690971596327000]Bilibili Official[/url][/size][/centre]
 [centre]此比赛由Crz战队承办！[/centre]
 
 
@@ -13,7 +13,7 @@
 
 [b]3[/b]. 本次比赛选手的报名没有数量限制。任何被赛事组委会以及osu!官方人员视为“作弊者”或者“可疑人员”的选手，将被拒绝参加比赛。请注意，在注册过程中未能阅读整个帖子，可能会导致玩家在问题解决之前无法获得比赛资格，所以请一定要先阅读完整个帖子！
 
-[b]4[/b]. 这次比赛仅对中华玩家开放，其中osu!账号旗帜为中国大陆地区，台湾地区，香港地区，澳门地区的玩家可以直接报名参赛，而其他玩家需要联系主办[profile=10500832][Crz]xz1z1z[/profile]并提交身份证明才有资格参赛。
+[b]4[/b]. 这次比赛仅对中华玩家开放，其中osu!账号旗帜为中国大陆地区，台湾地区，香港地区，澳门地区的玩家可以直接报名参赛，带有其他旗帜的其他玩家不允许参赛。
 
 [b]5[/b]. Discord将成为本次锦标赛所有信息的来源，所以无论你是玩家、管理人员或是观众，为了获取所有最新的消息，你将要加入该频道。玩家必须加入官方Discord频道或QQ群才有比赛的资格，但为了能更方便地沟通，请选手尽量加入比赛Discord频道。QQ群号：597317576。
 
@@ -23,7 +23,7 @@
 [b][notice][centre]粗略时刻表[/centre][/notice][/b]
 
 [list]
-[*][b]开启选手注册[/b] | 2026-12-10
+[*][b]开启选手注册[/b] | 2025-12-10
 [*][b]关闭选手注册[/b] | 2026-01-10
 [*][b]预选赛图池展示[/b] | 2026-01-25
 [*][b]预选赛阶段[/b] | 2026-01-31/2026-02-01
@@ -40,10 +40,10 @@
 [b][notice][centre]STAFF 列表[/centre][/notice][/b]
 
 [list]
-[*][b]主办[/b] | [profile=11279273][Crz]Alleyne[/profile]
+[*][b]主办[/b] | [profile=11279273][Crz]Alleyne[/profile], [profile=1653229]_Stan[/profile]
 [*][b]裁判[/b] | TBA
-[*][b]图池管理[/b] | [profile=1653229]_Stan[/profile]*, [profile=6209713]_Kobii[/profile], [profile=13026904]tyrcs[/profile],  [profile=10125072]U1d[/profile]
-[*][b]定制谱师[/b] | [profile=1653229]_Stan[/profile], [profile=7082178][Crz]Satori[/profile], [profile=13026904]tyrcs[/profile], [profile=7590894]ExNeko[/profile], [profile=10125072]U1d[/profile], [profile=4356322]Takjun[/profile], [profile=24526335]Rurvker[/profile], [profile=10210497]Telzzxs[/profile], [profile=6209713]_Kobii[/profile], [profile=8900975]BKwind[/profile], [profile=6117525]ruka[/profile]
+[*][b]图池管理[/b] | [profile=1653229]_Stan[/profile], [profile=6209713]_Kobii[/profile], [profile=13026904]tyrcs[/profile],  [profile=10125072]U1d[/profile], [profile=7590894]ExNeko[/profile], 
+[*][b]定制谱师[/b] | [profile=1653229]_Stan[/profile], [profile=7082178][Crz]Satori[/profile], [profile=13026904]tyrcs[/profile], [profile=7590894]ExNeko[/profile], [profile=10125072]U1d[/profile], [profile=4356322]TakJun[/profile], [profile=24526335]Rurvker[/profile], [profile=10210497]Telzzxs[/profile], [profile=6209713]_Kobii[/profile], [profile=8900975]BKwind[/profile], [profile=6117525]ruka[/profile]
 [*][b]直播[/b] | TBA
 [*][b]解说[/b] | TBA
 [*][b]美术设计[/b] | [profile=10365024]Sakura006[/profile]*, [profile=5106681]Dr_Tissues[/profile]
@@ -154,7 +154,7 @@
 [b][notice][centre]季前赛说明[/centre][/notice][/b]
 [b]1[/b]. 在资格赛阶段之后，将进行季前赛阶段。季前赛阶段是具有特定规则的单败淘汰阶段。
 
-[b]2[/b]. 季前赛阶段中热手图时长上限为3分钟。
+[b]2[/b]. 季前赛阶段中热手图时长上限为3分钟。选手需在赛前准备好热手图的详细链接，并在比赛时发送给裁判并审核通过以进行选图。
 
 [b]3[/b]. 资格赛结束后，晋级选手将根据资格赛种子分为多个小组，每个小组都有一套不同的比赛流程。
 (1) 如果有32名选手出线。
@@ -177,7 +177,7 @@ i. 所有玩家将在季前赛阶段参加一场比赛，他们的对手将是�
 
 [b]3[/b]. 在败者组中输掉一场比赛的选手将被淘汰出锦标赛。
 
-[b]4[/b]. 选手所选的热手不允许超过5分钟。在选手要求的情况下可以选择不热手。选手需在赛前准备好热手图的详细链接，并在比赛时发送给裁判以进行选图。
+[b]4[/b]. 选手所选的热手不允许超过5分钟。在选手要求的情况下可以选择不热手。选手需在赛前准备好热手图的详细链接，并在比赛时发送给裁判并审核通过以进行选图。
 
 
 [b][notice][centre]获胜条件[/centre][/notice][/b]
